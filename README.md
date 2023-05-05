@@ -6,18 +6,18 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ## Progress
 
-| Question Name                           | Difficulty | Status   | Link                                                                                            |
-| --------------------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------- |
-| Two Sum                                 | Easy       | Done ✅  | [2sum.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/2sum.cpp)                 |
-| Valid Paranthesis                       | Easy       | Done ✅  | [valid_paran.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/valid_paran.cpp)   |
-| Merge Two Sorted List                   | Easy       | Done ✅  | [merge2sorted.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/merge2sorted.cpp) |
-| Best Time to Buy and Sell Stock         | Easy       | Done ✅  | [stock.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/stock.cpp)               |
-| Valid Palindrome                        | Easy       | Not Done |                                                                                                 |
-| Invert Binary Tree                      | Easy       | Not Done |                                                                                                 |
-| Valid Anagran                           | Easy       | Not Done |                                                                                                 |
-| Binary Search                           | Easy       | Not Done |                                                                                                 |
-| Flood Fill                              | Easy       | Not Done |                                                                                                 |
-| Lowest Ancestor of a Binary Search Tree | Easy       | Not Done |                                                                                                 |
-| Balanced Binary Tree                    | Easy       | Not Done |                                                                                                 |
-| Linked List Cycle                       | Easy       | Not Done |                                                                                                 |
-| Implement Queue Using Stacks            | Easy       | Not Done |                                                                                                 |
+| Question Name                           | Difficulty | Status   | Link                                                                                              |
+| --------------------------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- |
+| Two Sum                                 | Easy       | Done ✅  | [2sum.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/2sum.cpp)                   |
+| Valid Paranthesis                       | Easy       | Done ✅  | [valid_paran.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/valid_paran.cpp)     |
+| Merge Two Sorted List                   | Easy       | Done ✅  | [merge2sorted.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/merge2sorted.cpp)   |
+| Best Time to Buy and Sell Stock         | Easy       | Done ✅  | [stock.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/stock.cpp)                 |
+| Valid Palindrome                        | Easy       | Done ✅  | [is_palindrome.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/is_palindrome.cpp) |
+| Invert Binary Tree                      | Easy       | Not Done |                                                                                                   |
+| Valid Anagran                           | Easy       | Not Done |                                                                                                   |
+| Binary Search                           | Easy       | Not Done |                                                                                                   |
+| Flood Fill                              | Easy       | Not Done |                                                                                                   |
+| Lowest Ancestor of a Binary Search Tree | Easy       | Not Done |                                                                                                   |
+| Balanced Binary Tree                    | Easy       | Not Done |                                                                                                   |
+| Linked List Cycle                       | Easy       | Not Done |                                                                                                   |
+| Implement Queue Using Stacks            | Easy       | Not Done |                                                                                                   |
