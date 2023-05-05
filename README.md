@@ -11,7 +11,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Two Sum                                 | Easy       | Done ✅  | [2sum.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/2sum.cpp)                 |
 | Valid Paranthesis                       | Easy       | Done ✅  | [valid_paran.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/valid_paran.cpp)   |
 | Merge Two Sorted List                   | Easy       | Done ✅  | [merge2sorted.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/merge2sorted.cpp) |
-| Best Time to Buy and Sell Stock         | Easy       | Not Done |                                                                                                 |
+| Best Time to Buy and Sell Stock         | Easy       | Done ✅  | [stock.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/stock.cpp)               |
 | Valid Palindrome                        | Easy       | Not Done |                                                                                                 |
 | Invert Binary Tree                      | Easy       | Not Done |                                                                                                 |
 | Valid Anagran                           | Easy       | Not Done |                                                                                                 |
