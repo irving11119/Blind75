@@ -15,7 +15,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Valid Palindrome                        | Easy       | Done ✅  | [is_palindrome.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/is_palindrome.cpp) |
 | Invert Binary Tree                      | Easy       | Done ✅  | [invert_tree.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/invert_tree.cpp)     |
 | Valid Anagran                           | Easy       | Done ✅  | [is_anagram.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/is_anagram.cpp)       |
-| Binary Search                           | Easy       | Not Done |                                                                                                   |
+| Binary Search                           | Easy       | Done ✅  | [binary_search.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/binary_search.cpp) |
 | Flood Fill                              | Easy       | Not Done |                                                                                                   |
 | Lowest Ancestor of a Binary Search Tree | Easy       | Not Done |                                                                                                   |
 | Balanced Binary Tree                    | Easy       | Not Done |                                                                                                   |
