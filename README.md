@@ -13,7 +13,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Merge Two Sorted List                   | Easy       | Done ✅  | [merge2sorted.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/merge2sorted.cpp)   |
 | Best Time to Buy and Sell Stock         | Easy       | Done ✅  | [stock.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/stock.cpp)                 |
 | Valid Palindrome                        | Easy       | Done ✅  | [is_palindrome.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/is_palindrome.cpp) |
-| Invert Binary Tree                      | Easy       | Not Done |                                                                                                   |
+| Invert Binary Tree                      | Easy       | Done ✅  | [invert_tree.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/invert_tree.cpp)     |
 | Valid Anagran                           | Easy       | Not Done |                                                                                                   |
 | Binary Search                           | Easy       | Not Done |                                                                                                   |
 | Flood Fill                              | Easy       | Not Done |                                                                                                   |
