@@ -18,6 +18,6 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Binary Search                           | Easy       | Done ✅  | [binary_search.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/binary_search.cpp)                   |
 | Flood Fill                              | Easy       | Done ✅  | [flood_fill.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/flood_fill.cpp)                         |
 | Lowest Ancestor of a Binary Search Tree | Easy       | Done ✅  | [lowest_common_ancestor.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/lowest_common_ancestor.cpp) |
-| Balanced Binary Tree                    | Easy       | Not Done |                                                                                                                     |
+| Balanced Binary Tree                    | Easy       | Done ✅  | [bbt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/bbt.cpp)                                       |
 | Linked List Cycle                       | Easy       | Not Done |                                                                                                                     |
 | Implement Queue Using Stacks            | Easy       | Not Done |                                                                                                                     |
