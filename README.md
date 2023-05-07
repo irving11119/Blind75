@@ -21,7 +21,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Balanced Binary Tree                    | Easy       | Done ✅  | [bbt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week1/bbt.cpp)                                       |
 | Linked List Cycle                       | Easy       | Done ✅  | [list_cycle.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week1/list_cycle.cpp)                         |
 | Implement Queue Using Stacks            | Easy       | Done ✅  | [queue.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week1/queue.cpp)                                   |
-| First Bad Version                       | Easy       | Not Done |                                                                                                                           |
+| First Bad Version                       | Easy       | Done ✅  | [first_bad.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/first_bad.cpp)                           |
 | Ransom Note                             | Easy       | Not Done |                                                                                                                           |
 | Climbing Stairs                         | Easy       | Not Done |                                                                                                                           |
 | Longest Palindrome                      | Easy       | Not Done |                                                                                                                           |
