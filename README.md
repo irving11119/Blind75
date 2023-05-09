@@ -26,17 +26,17 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 2
 
-| Question Name                | Difficulty | Status   | Link                                                                                            |
-| ---------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------- |
-| First Bad Version            | Easy       | Done ✅  | [first_bad.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/first_bad.cpp) |
-| Ransom Note                  | Easy       | Not Done |                                                                                                 |
-| Climbing Stairs              | Easy       | Not Done |                                                                                                 |
-| Longest Palindrome           | Easy       | Not Done |                                                                                                 |
-| Reverse Linked List          | Easy       | Not Done |                                                                                                 |
-| Majority Element             | Easy       | Not Done |                                                                                                 |
-| Add Binary                   | Easy       | Not Done |                                                                                                 |
-| Diameter Binary Tree         | Easy       | Not Done |                                                                                                 |
-| Middle of Linked List        | Easy       | Not Done |                                                                                                 |
-| Maximum Depth of Binary Tree | Easy       | Not Done |                                                                                                 |
-| Contains Duplicates          | Easy       | Not Done |                                                                                                 |
-| Maximum Subarray             | Medium     | Not Done |                                                                                                 |
+| Question Name                | Difficulty | Status   | Link                                                                                                |
+| ---------------------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------- |
+| First Bad Version            | Easy       | Done ✅  | [first_bad.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/first_bad.cpp)     |
+| Ransom Note                  | Easy       | Done ✅  | [ransom_note.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/ransom_note.cpp) |
+| Climbing Stairs              | Easy       | Not Done |                                                                                                     |
+| Longest Palindrome           | Easy       | Not Done |                                                                                                     |
+| Reverse Linked List          | Easy       | Not Done |                                                                                                     |
+| Majority Element             | Easy       | Not Done |                                                                                                     |
+| Add Binary                   | Easy       | Not Done |                                                                                                     |
+| Diameter Binary Tree         | Easy       | Not Done |                                                                                                     |
+| Middle of Linked List        | Easy       | Not Done |                                                                                                     |
+| Maximum Depth of Binary Tree | Easy       | Not Done |                                                                                                     |
+| Contains Duplicates          | Easy       | Not Done |                                                                                                     |
+| Maximum Subarray             | Medium     | Not Done |                                                                                                     |
