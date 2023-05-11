@@ -34,7 +34,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Longest Palindrome           | Easy       | Done ✅  | [longest_palindrome.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/longest_palindrome.cpp) |
 | Reverse Linked List          | Easy       | Done ✅  | [reverse_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/reverse_list.cpp)             |
 | Majority Element             | Easy       | Done ✅  | [majority_element.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/majority_element.cpp)     |
-| Add Binary                   | Easy       | Not Done |                                                                                                                   |
+| Add Binary                   | Easy       | Done ✅  | [add_binary.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/add_binary.cpp)                 |
 | Diameter Binary Tree         | Easy       | Not Done |                                                                                                                   |
 | Middle of Linked List        | Easy       | Not Done |                                                                                                                   |
 | Maximum Depth of Binary Tree | Easy       | Not Done |                                                                                                                   |
