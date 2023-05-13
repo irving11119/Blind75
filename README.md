@@ -35,7 +35,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Reverse Linked List          | Easy       | Done ✅  | [reverse_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/reverse_list.cpp)             |
 | Majority Element             | Easy       | Done ✅  | [majority_element.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/majority_element.cpp)     |
 | Add Binary                   | Easy       | Done ✅  | [add_binary.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/add_binary.cpp)                 |
-| Diameter Binary Tree         | Easy       | Not Done |                                                                                                                   |
+| Diameter Binary Tree         | Easy       | Done ✅  | [diameter_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/diameter_bt.cpp)               |
 | Middle of Linked List        | Easy       | Not Done |                                                                                                                   |
 | Maximum Depth of Binary Tree | Easy       | Not Done |                                                                                                                   |
 | Contains Duplicates          | Easy       | Not Done |                                                                                                                   |
