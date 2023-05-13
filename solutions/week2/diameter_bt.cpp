@@ -38,6 +38,7 @@ public:
     int diameterOfBinaryTree(TreeNode *root)
     {
         int max = -1;
-        return solve(root, max);
+        solve(root, max);
+        return max;
     }
 };
