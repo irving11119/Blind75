@@ -37,6 +37,6 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Add Binary                   | Easy       | Done ✅  | [add_binary.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/add_binary.cpp)                 |
 | Diameter Binary Tree         | Easy       | Done ✅  | [diameter_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/diameter_bt.cpp)               |
 | Middle of Linked List        | Easy       | Done ✅  | [middle_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/middle_list.cpp)               |
-| Maximum Depth of Binary Tree | Easy       | Not Done |                                                                                                                   |
+| Maximum Depth of Binary Tree | Easy       | Not Done | [max_depth_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/max_depth_bt.cpp)             |
 | Contains Duplicates          | Easy       | Not Done |                                                                                                                   |
 | Maximum Subarray             | Medium     | Not Done |                                                                                                                   |
