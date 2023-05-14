@@ -26,17 +26,17 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 2
 
-| Question Name                | Difficulty | Status   | Link                                                                                                              |
-| ---------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- |
-| First Bad Version            | Easy       | Done ✅  | [first_bad.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/first_bad.cpp)                   |
-| Ransom Note                  | Easy       | Done ✅  | [ransom_note.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/ransom_note.cpp)               |
-| Climbing Stairs              | Easy       | Done ✅  | [stairs.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/stairs.cpp)                         |
-| Longest Palindrome           | Easy       | Done ✅  | [longest_palindrome.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/longest_palindrome.cpp) |
-| Reverse Linked List          | Easy       | Done ✅  | [reverse_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/reverse_list.cpp)             |
-| Majority Element             | Easy       | Done ✅  | [majority_element.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/majority_element.cpp)     |
-| Add Binary                   | Easy       | Done ✅  | [add_binary.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/add_binary.cpp)                 |
-| Diameter Binary Tree         | Easy       | Done ✅  | [diameter_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/diameter_bt.cpp)               |
-| Middle of Linked List        | Easy       | Done ✅  | [middle_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/middle_list.cpp)               |
-| Maximum Depth of Binary Tree | Easy       | Done ✅  | [max_depth_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/max_depth_bt.cpp)             |
-| Contains Duplicates          | Easy       | Done ✅  | [duplicates.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/duplicates.cpp)                 |
-| Maximum Subarray             | Medium     | Not Done |                                                                                                                   |
+| Question Name                | Difficulty | Status  | Link                                                                                                              |
+| ---------------------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------- |
+| First Bad Version            | Easy       | Done ✅ | [first_bad.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/first_bad.cpp)                   |
+| Ransom Note                  | Easy       | Done ✅ | [ransom_note.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/ransom_note.cpp)               |
+| Climbing Stairs              | Easy       | Done ✅ | [stairs.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/stairs.cpp)                         |
+| Longest Palindrome           | Easy       | Done ✅ | [longest_palindrome.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/longest_palindrome.cpp) |
+| Reverse Linked List          | Easy       | Done ✅ | [reverse_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/reverse_list.cpp)             |
+| Majority Element             | Easy       | Done ✅ | [majority_element.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/majority_element.cpp)     |
+| Add Binary                   | Easy       | Done ✅ | [add_binary.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/add_binary.cpp)                 |
+| Diameter Binary Tree         | Easy       | Done ✅ | [diameter_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/diameter_bt.cpp)               |
+| Middle of Linked List        | Easy       | Done ✅ | [middle_list.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/middle_list.cpp)               |
+| Maximum Depth of Binary Tree | Easy       | Done ✅ | [max_depth_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/max_depth_bt.cpp)             |
+| Contains Duplicates          | Easy       | Done ✅ | [duplicates.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/duplicates.cpp)                 |
+| Maximum Subarray             | Medium     | Done ✅ | [max_subarr.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/max_subarr.cpp)                 |
