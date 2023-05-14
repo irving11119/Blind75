@@ -40,3 +40,16 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Maximum Depth of Binary Tree | Easy       | Done ✅ | [max_depth_bt.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/max_depth_bt.cpp)             |
 | Contains Duplicates          | Easy       | Done ✅ | [duplicates.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/duplicates.cpp)                 |
 | Maximum Subarray             | Medium     | Done ✅ | [max_subarr.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week2/max_subarr.cpp)                 |
+
+### Week 3
+
+| Question Name                                  | Difficulty | Status   | Link |
+| ---------------------------------------------- | ---------- | -------- | ---- |
+| Insert Interval                                | Medium     | Not Done |      |
+| 01 Matrix                                      | Medium     | Not Done |      |
+| K Closests Points to Origin                    | Medium     | Not Done |      |
+| Longest Substring Without Repeating Characters | Medium     | Not Done |      |
+| 3Sum                                           | Medium     | Not Done |      |
+| Binary Tree Level Order Traversal              | Medium     | Not Done |      |
+| Clone Graph                                    | Medium     | Not Done |      |
+| Evaluate Reverse Polish Notation               | Medium     | Not Done |      |
