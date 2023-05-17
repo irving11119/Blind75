@@ -43,13 +43,13 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 3
 
-| Question Name                                  | Difficulty | Status   | Link                                                                                          |
-| ---------------------------------------------- | ---------- | -------- | --------------------------------------------------------------------------------------------- |
-| Insert Interval                                | Medium     | Done ✅  | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/interval.cpp) |
-| 01 Matrix                                      | Medium     | Not Done |                                                                                               |
-| K Closests Points to Origin                    | Medium     | Not Done |                                                                                               |
-| Longest Substring Without Repeating Characters | Medium     | Not Done |                                                                                               |
-| 3Sum                                           | Medium     | Not Done |                                                                                               |
-| Binary Tree Level Order Traversal              | Medium     | Not Done |                                                                                               |
-| Clone Graph                                    | Medium     | Not Done |                                                                                               |
-| Evaluate Reverse Polish Notation               | Medium     | Not Done |                                                                                               |
+| Question Name                                  | Difficulty | Status   | Link                                                                                            |
+| ---------------------------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------- |
+| Insert Interval                                | Medium     | Done ✅  | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/interval.cpp)   |
+| 01 Matrix                                      | Medium     | Done ✅  | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/01_maxtrix.cpp) |
+| K Closests Points to Origin                    | Medium     | Not Done |                                                                                                 |
+| Longest Substring Without Repeating Characters | Medium     | Not Done |                                                                                                 |
+| 3Sum                                           | Medium     | Not Done |                                                                                                 |
+| Binary Tree Level Order Traversal              | Medium     | Not Done |                                                                                                 |
+| Clone Graph                                    | Medium     | Not Done |                                                                                                 |
+| Evaluate Reverse Polish Notation               | Medium     | Not Done |                                                                                                 |
