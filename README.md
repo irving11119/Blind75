@@ -46,7 +46,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Question Name                                  | Difficulty | Status   | Link                                                                                                          |
 | ---------------------------------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------- |
 | Insert Interval                                | Medium     | Done ✅  | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/interval.cpp)                 |
-| 01 Matrix                                      | Medium     | Done ✅  | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/01_maxtrix.cpp)               |
+| 01 Matrix                                      | Medium     | Done ✅  | [01_matrix.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/01_maxtrix.cpp)              |
 | K Closests Points to Origin                    | Medium     | Done ✅  | [k_closest_points.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/k_closest_points.cpp) |
 | Longest Substring Without Repeating Characters | Medium     | Not Done |                                                                                                               |
 | 3Sum                                           | Medium     | Not Done |                                                                                                               |
