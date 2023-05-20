@@ -43,13 +43,13 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 3
 
-| Question Name                                  | Difficulty | Status   | Link                                                                                                            |
-| ---------------------------------------------- | ---------- | -------- | --------------------------------------------------------------------------------------------------------------- |
-| Insert Interval                                | Medium     | Done ✅  | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/interval.cpp)                   |
-| 01 Matrix                                      | Medium     | Done ✅  | [01_matrix.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/01_maxtrix.cpp)                |
-| K Closests Points to Origin                    | Medium     | Done ✅  | [k_closest_points.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/k_closest_points.cpp)   |
-| Longest Substring Without Repeating Characters | Medium     | Done ✅  | [longest_substring.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/longest_substring.cpp) |
-| 3Sum                                           | Medium     | Done ✅  | [3sum.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/3sum.cpp)                           |
-| Binary Tree Level Order Traversal              | Medium     | Done ✅  | [bt_level.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/bt_level.cpp)                   |
-| Clone Graph                                    | Medium     | Done ✅  | [clone_graph.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/clone_graph.cpp)             |
-| Evaluate Reverse Polish Notation               | Medium     | Not Done |                                                                                                                 |
+| Question Name                                  | Difficulty | Status  | Link                                                                                                            |
+| ---------------------------------------------- | ---------- | ------- | --------------------------------------------------------------------------------------------------------------- |
+| Insert Interval                                | Medium     | Done ✅ | [interval.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/interval.cpp)                   |
+| 01 Matrix                                      | Medium     | Done ✅ | [01_matrix.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/01_maxtrix.cpp)                |
+| K Closests Points to Origin                    | Medium     | Done ✅ | [k_closest_points.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/k_closest_points.cpp)   |
+| Longest Substring Without Repeating Characters | Medium     | Done ✅ | [longest_substring.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/longest_substring.cpp) |
+| 3Sum                                           | Medium     | Done ✅ | [3sum.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/3sum.cpp)                           |
+| Binary Tree Level Order Traversal              | Medium     | Done ✅ | [bt_level.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/bt_level.cpp)                   |
+| Clone Graph                                    | Medium     | Done ✅ | [clone_graph.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/clone_graph.cpp)             |
+| Evaluate Reverse Polish Notation               | Medium     | Done ✅ | [polish_notation.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/polish_notation.cpp)     |
