@@ -53,3 +53,16 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Binary Tree Level Order Traversal              | Medium     | Done ✅ | [bt_level.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/bt_level.cpp)                   |
 | Clone Graph                                    | Medium     | Done ✅ | [clone_graph.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/clone_graph.cpp)             |
 | Evaluate Reverse Polish Notation               | Medium     | Done ✅ | [polish_notation.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week3/polish_notation.cpp)     |
+
+### Week 4
+
+| Question Name                | Difficulty | Status   | Link |
+| ---------------------------- | ---------- | -------- | ---- |
+| Course Schedule              | Medium     | Not Done |      |
+| Implement Trie (Prefix Tree) | Medium     | Not Done |      |
+| Coin Change                  | Medium     | Not Done |      |
+| Product of Array Except Self | Medium     | Not Done |      |
+| Min Stack                    | Medium     | Not Done |      |
+| Validate Binary Search Tree  | Medium     | Not Done |      |
+| Number of Islands            | Medium     | Not Done |      |
+| Rotting Oranges              | Medium     | Not Done |      |
