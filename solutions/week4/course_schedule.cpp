@@ -4,34 +4,49 @@ using namespace std;
 class Solution
 {
 public:
-    bool canFinish(int numCourses, vector<vector<int>> &prerequisites)
+    bool hasCycle(int course, vector<vector<int>> &AL, vector<int> &visited)
     {
-        vector<vector<int>> graph(numCourses);
-        vector<int> indegree(numCourses, 0);
-        for (auto &p : prerequisites)
+        visited[course] = 1;
+        for (auto next : AL[course])
         {
-            graph[p[1]].push_back(p[0]);
-            indegree[p[0]]++;
-        }
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++)
-            if (indegree[i] == 0)
-                q.push(i);
-        int cnt = 0;
-
-        while (!q.empty())
-        {
-            int u = q.front();
-            q.pop();
-            cnt++;
-            for (auto &v : graph[u])
+            if (visited[next] == 1)
             {
-                indegree[v]--;
-                if (indegree[v] == 0)
-                    q.push(v);
+                return true;
+            }
+
+            if (visited[next] == 0)
+            {
+                if (hasCycle(next, AL, visited))
+                {
+                    return true;
+                }
             }
         }
 
-        return cnt == numCourses;
+        visited[course] = 2;
+        return false;
+    }
+
+    bool canFinish(int numCourses, vector<vector<int>> &prerequisites)
+    {
+        vector<vector<int>> AL(numCourses);
+        vector<int> visited(numCourses, 0);
+        for (auto &p : prerequisites)
+        {
+            AL[p[1]].push_back(p[0]);
+        }
+
+        for (long i = 0; i < numCourses; i++)
+        {
+            if (visited[i] == 0)
+            {
+                if (hasCycle(i, AL, visited))
+                {
+                    return false;
+                }
+            }
+        }
+
+        return true;
     }
 };
