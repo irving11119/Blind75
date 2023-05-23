@@ -56,13 +56,13 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 4
 
-| Question Name                | Difficulty | Status   | Link |
-| ---------------------------- | ---------- | -------- | ---- |
-| Course Schedule              | Medium     | Not Done |      |
-| Implement Trie (Prefix Tree) | Medium     | Not Done |      |
-| Coin Change                  | Medium     | Not Done |      |
-| Product of Array Except Self | Medium     | Not Done |      |
-| Min Stack                    | Medium     | Not Done |      |
-| Validate Binary Search Tree  | Medium     | Not Done |      |
-| Number of Islands            | Medium     | Not Done |      |
-| Rotting Oranges              | Medium     | Not Done |      |
+| Question Name                | Difficulty | Status   | Link                                                                                                        |
+| ---------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
+| Course Schedule              | Medium     | Done ✅  | [course_schedule.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/course_schedule.cpp) |
+| Implement Trie (Prefix Tree) | Medium     | Not Done |                                                                                                             |
+| Coin Change                  | Medium     | Not Done |                                                                                                             |
+| Product of Array Except Self | Medium     | Not Done |                                                                                                             |
+| Min Stack                    | Medium     | Not Done |                                                                                                             |
+| Validate Binary Search Tree  | Medium     | Not Done |                                                                                                             |
+| Number of Islands            | Medium     | Not Done |                                                                                                             |
+| Rotting Oranges              | Medium     | Not Done |                                                                                                             |
