@@ -60,7 +60,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | ---------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
 | Course Schedule              | Medium     | Done ✅  | [course_schedule.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/course_schedule.cpp) |
 | Implement Trie (Prefix Tree) | Medium     | Done ✅  | [trie.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/trie.cpp)                       |
-| Coin Change                  | Medium     | Not Done |                                                                                                             |
+| Coin Change                  | Medium     | Done ✅  | [change.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/change.cpp)                   |
 | Product of Array Except Self | Medium     | Not Done |                                                                                                             |
 | Min Stack                    | Medium     | Not Done |                                                                                                             |
 | Validate Binary Search Tree  | Medium     | Not Done |                                                                                                             |
