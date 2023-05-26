@@ -64,5 +64,5 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Product of Array Except Self | Medium     | Done ✅  | [product.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/product.cpp)                 |
 | Min Stack                    | Medium     | Done ✅  | [min_stack.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/min_stack.cpp)             |
 | Validate Binary Search Tree  | Medium     | Done ✅  | [validate_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/validate_bst.cpp)       |
-| Number of Islands            | Medium     | Not Done |                                                                                                             |
+| Number of Islands            | Medium     | Done ✅  | [islands.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/islands.cpp)                 |
 | Rotting Oranges              | Medium     | Not Done |                                                                                                             |
