@@ -56,13 +56,13 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 4
 
-| Question Name                | Difficulty | Status   | Link                                                                                                        |
-| ---------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------- |
-| Course Schedule              | Medium     | Done ✅  | [course_schedule.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/course_schedule.cpp) |
-| Implement Trie (Prefix Tree) | Medium     | Done ✅  | [trie.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/trie.cpp)                       |
-| Coin Change                  | Medium     | Done ✅  | [change.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/change.cpp)                   |
-| Product of Array Except Self | Medium     | Done ✅  | [product.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/product.cpp)                 |
-| Min Stack                    | Medium     | Done ✅  | [min_stack.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/min_stack.cpp)             |
-| Validate Binary Search Tree  | Medium     | Done ✅  | [validate_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/validate_bst.cpp)       |
-| Number of Islands            | Medium     | Done ✅  | [islands.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/islands.cpp)                 |
-| Rotting Oranges              | Medium     | Not Done |                                                                                                             |
+| Question Name                | Difficulty | Status  | Link                                                                                                        |
+| ---------------------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------------------- |
+| Course Schedule              | Medium     | Done ✅ | [course_schedule.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/course_schedule.cpp) |
+| Implement Trie (Prefix Tree) | Medium     | Done ✅ | [trie.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/trie.cpp)                       |
+| Coin Change                  | Medium     | Done ✅ | [change.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/change.cpp)                   |
+| Product of Array Except Self | Medium     | Done ✅ | [product.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/product.cpp)                 |
+| Min Stack                    | Medium     | Done ✅ | [min_stack.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/min_stack.cpp)             |
+| Validate Binary Search Tree  | Medium     | Done ✅ | [validate_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/validate_bst.cpp)       |
+| Number of Islands            | Medium     | Done ✅ | [islands.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/islands.cpp)                 |
+| Rotting Oranges              | Medium     | Done ✅ | [oranges.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/oranges.cpp)                 |
