@@ -63,6 +63,6 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Coin Change                  | Medium     | Done ✅  | [change.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/change.cpp)                   |
 | Product of Array Except Self | Medium     | Done ✅  | [product.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/product.cpp)                 |
 | Min Stack                    | Medium     | Done ✅  | [min_stack.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/min_stack.cpp)             |
-| Validate Binary Search Tree  | Medium     | Not Done |                                                                                                             |
+| Validate Binary Search Tree  | Medium     | Done ✅  | [validate_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/validate_bst.cpp)       |
 | Number of Islands            | Medium     | Not Done |                                                                                                             |
 | Rotting Oranges              | Medium     | Not Done |                                                                                                             |
