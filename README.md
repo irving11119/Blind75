@@ -62,7 +62,7 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Implement Trie (Prefix Tree) | Medium     | Done ✅  | [trie.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/trie.cpp)                       |
 | Coin Change                  | Medium     | Done ✅  | [change.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/change.cpp)                   |
 | Product of Array Except Self | Medium     | Done ✅  | [product.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/product.cpp)                 |
-| Min Stack                    | Medium     | Not Done |                                                                                                             |
+| Min Stack                    | Medium     | Done ✅  | [min_stack.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/min_stack.cpp)             |
 | Validate Binary Search Tree  | Medium     | Not Done |                                                                                                             |
 | Number of Islands            | Medium     | Not Done |                                                                                                             |
 | Rotting Oranges              | Medium     | Not Done |                                                                                                             |
