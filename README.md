@@ -66,3 +66,14 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Validate Binary Search Tree  | Medium     | Done ✅ | [validate_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/validate_bst.cpp)       |
 | Number of Islands            | Medium     | Done ✅ | [islands.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/islands.cpp)                 |
 | Rotting Oranges              | Medium     | Done ✅ | [oranges.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week4/oranges.cpp)                 |
+
+### Week 5
+
+| Question Name                  | Difficulty | Status   | Link |
+| ------------------------------ | ---------- | -------- | ---- |
+| Search in Rotated Sorted Array | Medium     | Not Done |      |
+| Combination Sum                | Medium     | Not Done |      |
+| Permutations                   | Medium     | Not Done |      |
+| Time Based Key-Value Store     | Medium     | Not Done |      |
+| Accounts Merge                 | Medium     | Not Done |      |
+| Sort Colours                   | Medium     | Not Done |      |
