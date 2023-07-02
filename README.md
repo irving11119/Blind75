@@ -79,3 +79,17 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 | Time Based Key-Value Store              | Medium     | Done ✅ | [time_store.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/time_store.cpp)     |
 | Accounts Merge                          | Medium     | Done ✅ | [accounts.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/accounts.cpp)         |
 | Sort Colours                            | Medium     | Done ✅ | [sort_colours.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/sort_colours.cpp) |
+
+### Week 6
+
+| Question Name                                             | Difficulty | Status   | Link |
+| --------------------------------------------------------- | ---------- | -------- | ---- |
+| Word Break                                                | Medium     | Not Done |      |
+| Partition Equal Subset Sum                                | Medium     | Not Done |      |
+| String to Integer (Atoi)                                  | Medium     | Not Done |      |
+| Spiral Matrix                                             | Medium     | Not Done |      |
+| Subsets                                                   | Medium     | Not Done |      |
+| Binary Tree Right Side View                               | Medium     | Not Done |      |
+| Longest Palindromic Substring                             | Medium     | Not Done |      |
+| Unique Paths                                              | Medium     | Not Done |      |
+| Construct Binary Tree from Preorder and Inorder Traversal | Medium     | Not Done |      |
