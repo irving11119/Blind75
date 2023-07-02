@@ -69,13 +69,13 @@ This repo aims to track my personal progress on Blind75 questions in preparation
 
 ### Week 5
 
-| Question Name                           | Difficulty     | Status                                                                                        | Link                                                                                                  |
-| --------------------------------------- | -------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Search in Rotated Sorted Array          | Medium         | Done ✅                                                                                       | [rotated_arr.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/rotated_arr.cpp)   |
-| Combination Sum                         | Medium         | Done ✅                                                                                       | [combination.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/combination.cpp)   |
-| Permutations                            | Medium         | Done ✅                                                                                       | [permutations.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/permutations.cpp) |
-| Merge Interval                          | Medium         | Done ✅                                                                                       | [merge.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/merge.cpp)               |
-| Lowest Common Ancestor of a Binary Tree | Medium         | Done ✅                                                                                       | [lca_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/lca_bst.cpp)           |
-| Time Based Key-Value Store              | Medium         | Done ✅                                                                                       | [time_store.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/time_store.cpp)     |
-| Accounts Merge                          | Medium Done ✅ | [accounts.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/accounts.cpp) |
-| Sort Colours                            | Medium         | Done ✅                                                                                       | [sort_colours.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/sort_colours.cpp) |
+| Question Name                           | Difficulty | Status  | Link                                                                                                  |
+| --------------------------------------- | ---------- | ------- | ----------------------------------------------------------------------------------------------------- |
+| Search in Rotated Sorted Array          | Medium     | Done ✅ | [rotated_arr.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/rotated_arr.cpp)   |
+| Combination Sum                         | Medium     | Done ✅ | [combination.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/combination.cpp)   |
+| Permutations                            | Medium     | Done ✅ | [permutations.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/permutations.cpp) |
+| Merge Interval                          | Medium     | Done ✅ | [merge.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/merge.cpp)               |
+| Lowest Common Ancestor of a Binary Tree | Medium     | Done ✅ | [lca_bst.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/lca_bst.cpp)           |
+| Time Based Key-Value Store              | Medium     | Done ✅ | [time_store.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/time_store.cpp)     |
+| Accounts Merge                          | Medium     | Done ✅ | [accounts.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/accounts.cpp)         |
+| Sort Colours                            | Medium     | Done ✅ | [sort_colours.cpp](https://github.com/irving11119/Blind75/blob/main/solutions/week5/sort_colours.cpp) |
